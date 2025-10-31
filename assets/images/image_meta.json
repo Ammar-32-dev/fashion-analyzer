@@ -1,0 +1,392 @@
+[
+  {
+    "query": "A clear photo of a person wearing casual jeans and t-shirt for fashion analysis testing",
+    "image_info": {
+      "url": "http://perkclothing.com/cdn/shop/articles/jkl4.jpg?v=1648721608",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 107781,
+      "width": 1000,
+      "height": 771,
+      "total_pixels": 771000,
+      "basic_score": 0.9151433888656761,
+      "file_name": "man_casual_jeans_henley_shirt_outfit_fashion_analysis.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant, featuring a man in a casual outfit of jeans and a Henley shirt, which fits the 't-shirt' query. The clarity is excellent, with sharp focus on the subject and good lighting. There are no watermarks, and the overall composition, natural expression, and professional quality are outstanding.",
+      "file_name": "man_casual_jeans_henley_shirt_outfit_fashion_analysis.jpg",
+      "caption": "A candid full-shot portrait of a man with blonde hair and a beard, wearing a white long-sleeve Henley shirt, blue jeans, and a brown leather belt, holding clear-framed glasses. He is smiling and looking to the right, standing casually in a brightly lit, modern home with large windows and a white interior.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A clear photo of a person wearing casual jeans and t-shirt for fashion analysis testing",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/e6/9f/b5/e69fb5a115cd724de52e968e85f6c98a.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 137044,
+      "width": 503,
+      "height": 1401,
+      "total_pixels": 704703,
+      "basic_score": 0.839987149105672,
+      "file_name": "stylish_man_casual_white_tshirt_ripped_jeans_street_style.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a clear, high-quality photograph of a person in a casual t-shirt and ripped jeans. It has excellent clarity, no watermarks, and professional composition, making it ideal for fashion analysis.",
+      "file_name": "stylish_man_casual_white_tshirt_ripped_jeans_street_style.jpg",
+      "caption": "A stylish man with a well-groomed beard and coiffed hair walks confidently on a paved street, dressed in a crisp white crew-neck t-shirt and light-wash ripped skinny jeans. He completes his casual-chic look with dark aviator-style sunglasses, a silver watch, layered silver bracelets, and pristine white sneakers, while holding an iced coffee in his hand.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A clear photo of a person wearing casual jeans and t-shirt for fashion analysis testing",
+    "image_info": {
+      "url": "https://i.pinimg.com/564x/3e/19/5a/3e195a79d20f05b4e9f8a1d55cb58f35.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 73446,
+      "width": 508,
+      "height": 1080,
+      "total_pixels": 548640,
+      "basic_score": 0.8424652011987694,
+      "file_name": "casual_mens_white_tshirt_jeans_street_style_fashion_analysis.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and the prompt, clearly showing a person in a casual outfit of a white t-shirt and distressed blue jeans. It is highly clear, well-focused, and professionally composed with good lighting. There are no watermarks present, making it ideal for fashion analysis testing.",
+      "file_name": "casual_mens_white_tshirt_jeans_street_style_fashion_analysis.jpg",
+      "caption": "A full-length, clear photograph of a young man presenting a stylish casual outfit on a cobblestone street. He is wearing a plain white crew-neck t-shirt, distressed blue skinny jeans, and white sneakers, with his hand casually in his pocket. The background features blurred historic buildings, providing an urban aesthetic. This image is excellent for fashion analysis testing.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A clear photo of a person wearing casual jeans and t-shirt for fashion analysis testing",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/70/ff/9b/70ff9bb9674b9cca449ad40bb6d5fdfb.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 128719,
+      "width": 700,
+      "height": 1400,
+      "total_pixels": 980000,
+      "basic_score": 0.8844439285210237,
+      "file_name": "man_casual_blue_plaid_shirt_jeans_street_fashion.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query, featuring a person in a casual outfit with jeans and a t-shirt (visible under an open plaid shirt). The clarity is excellent, with sharp focus on the subject and good lighting. There are no watermarks, and the overall composition and professional quality are very high.",
+      "file_name": "man_casual_blue_plaid_shirt_jeans_street_fashion.jpg",
+      "caption": "A stylish man with dark sunglasses confidently strides down an urban street, showcasing a casual fashion ensemble. He wears a blue and black buffalo check plaid flannel shirt unbuttoned over a clean white t-shirt, paired with light-wash denim jeans cuffed at the ankles, and white sneakers with subtle red detailing. A silver SUV and a modern building are visible in the softly blurred background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A clear photo of a person wearing casual jeans and t-shirt for fashion analysis testing",
+    "image_info": {
+      "url": "https://1.bp.blogspot.com/-O6mFdLdMcqk/WMv1GVCyQWI/AAAAAAAAJDE/sBx7ph2V5f0u1r7TqUsRzY0nfZG8wrIrwCEw/s1600/casual%2Bfriday11.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 475949,
+      "width": 1000,
+      "height": 1498,
+      "total_pixels": 1498000,
+      "basic_score": 0.8634356025731093,
+      "file_name": "woman_casual_outfit_jeans_tshirt_stairs_fashion_analysis.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query, depicting a person in a casual outfit with jeans and a t-shirt. The clarity is excellent, with sharp details and good lighting, making it ideal for fashion analysis. There are no watermarks, and the overall composition and professional quality are high.",
+      "file_name": "woman_casual_outfit_jeans_tshirt_stairs_fashion_analysis.jpg",
+      "caption": "A stylish Black woman stands confidently on a textured black metal staircase against a concrete wall, modeling a casual yet fashionable ensemble. She is wearing light-wash ripped skinny jeans, a black t-shirt with 'MELANIN CHIC' printed in white, a multi-colored long cardigan with stripes in shades of beige, grey, and black, and black lace-up high heels. Her natural curly hair is slightly tousled, and she sports reflective pink-tinted sunglasses, enhancing her chic urban look.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional business outfit photo for clothing detection testing",
+    "image_info": {
+      "url": "https://www.themodestman.com/wp-content/uploads/2024/08/Mens-Business-Formal-Attire.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 22716,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9291399645499961,
+      "file_name": "professional_man_navy_suit_adjusting_cuff.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for both the search query and prompt, perfectly showcasing a professional business outfit against a clean background, ideal for clothing detection testing. It is very clear, well-lit, and free of watermarks.",
+      "file_name": "professional_man_navy_suit_adjusting_cuff.jpg",
+      "caption": "A well-dressed man in a sharp navy blue business suit, white shirt, and patterned purple tie, standing against a plain light gray background. He is captured in a professional studio shot, in the act of adjusting the cuff of his shirt. His black polished dress shoes complete the formal attire.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional business outfit photo for clothing detection testing",
+    "image_info": {
+      "url": "https://images.stockcake.com/public/8/0/f/80f1db97-89d7-42e0-90e6-4609dd405d5b_large/elegant-business-attire-stockcake.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 23316,
+      "width": 512,
+      "height": 512,
+      "total_pixels": 262144,
+      "basic_score": 0.7718583058635021,
+      "file_name": "young_man_black_business_suit_formal_outfit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It clearly depicts a person in a formal business suit and shirt, which is ideal for clothing detection testing. The clarity is excellent, with no watermarks, and the overall composition and professionalism are very high.",
+      "file_name": "young_man_black_business_suit_formal_outfit.jpg",
+      "caption": "A smiling young Asian man stands full-body against a plain light gray wall, wearing a sharp black business suit with satin lapels, a white dress shirt, a black tie, a white pocket square, and black dress shoes. He is adjusting the front button of his jacket.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional business outfit photo for clothing detection testing",
+    "image_info": {
+      "url": "http://www.nimble-made.com/cdn/shop/articles/business-formal-men_30509580-8eff-4a45-bbae-3e6122c8f52a.jpg?v=1743535951",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 51787,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.922149806039902,
+      "file_name": "professional_man_navy_suit_portrait_clothing_detection_test.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and the prompt. It clearly depicts a person in a formal business suit and shirt, ideal for clothing detection testing. The image is of high clarity, well-composed, and free of watermarks, making it an excellent professional photograph.",
+      "file_name": "professional_man_navy_suit_portrait_clothing_detection_test.jpg",
+      "caption": "A professional headshot portrait of an East Asian man wearing a sharp navy blue formal business suit, a crisp white dress shirt, and a dark blue knitted tie. He also sports a patterned pocket square and has neatly slicked-back dark hair. The subject maintains a neutral, confident expression, positioned indoors against a subtly blurred modern background with soft lighting fixtures.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional business outfit photo for clothing detection testing",
+    "image_info": {
+      "url": "https://www.thefashionisto.com/wp-content/uploads/2023/07/Business-Professional-Men-Suit-Dress-Shirt.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 62034,
+      "width": 800,
+      "height": 678,
+      "total_pixels": 542400,
+      "basic_score": 0.8579263041556693,
+      "file_name": "man_formal_business_suit_white_shirt_professional_portrait.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and prompt, featuring a well-groomed man in a formal business suit and white shirt. It exhibits excellent clarity, professional composition, and is free of watermarks, making it highly suitable for clothing detection testing.",
+      "file_name": "man_formal_business_suit_white_shirt_professional_portrait.jpg",
+      "caption": "A full-length studio portrait of a handsome, well-groomed man with brown hair, wearing a dark navy or black business suit with a crisp white button-down shirt. He is looking directly at the camera with a neutral expression, with one hand lightly adjusting his jacket, and is positioned against a clean, neutral light gray background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A professional business outfit photo for clothing detection testing",
+    "image_info": {
+      "url": "https://image.made-in-china.com/202f0j00aqTcHSdBAWob/Bespoke-Men-s-Suits-High-End-Custom-Suits-Apparel-Formal-Business-Suits-Men-s-Suits.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 38456,
+      "width": 550,
+      "height": 550,
+      "total_pixels": 302500,
+      "basic_score": 0.7985460876466123,
+      "file_name": "professional_business_suit_male_female_duo.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and the prompt, featuring two individuals in professional formal business suits and shirts. The clarity is excellent, with sharp details and good lighting. There are no watermarks, and the overall composition and professionalism are very high, making it ideal for clothing detection testing.",
+      "file_name": "professional_business_suit_male_female_duo.jpg",
+      "caption": "A well-lit, professional outdoor shot of a male and female model wearing matching tan or khaki formal business suits, white shirts, and blue and white striped ties. The male stands slightly behind and to the left, while the female holds a blue folder, both looking directly at the camera with confident expressions. The background features modern architectural elements, slightly blurred to keep focus on the subjects.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A sporty athletic outfit photo for fashion AI testing",
+    "image_info": {
+      "url": "https://krystalschlegel.com/wp-content/uploads/2019/10/beyond-yoga-leggings.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 633825,
+      "width": 700,
+      "height": 1061,
+      "total_pixels": 742700,
+      "basic_score": 0.9300698095414388,
+      "file_name": "woman_black_athletic_outfit_puffer_vest_sneakers_coffee.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a woman in a complete athletic outfit including sneakers. The clarity is excellent, with sharp focus and good lighting. There are no watermarks, and the overall composition and professional quality are very high, making it ideal for fashion AI testing.",
+      "file_name": "woman_black_athletic_outfit_puffer_vest_sneakers_coffee.jpg",
+      "caption": "A blonde woman smiles brightly while posing in a stylish black athletic outfit, featuring leggings, a long-sleeve top, and a puffer vest, paired with black and white sneakers. She holds a takeaway coffee cup while standing outdoors in front of a modern building with large glass pane doors.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A sporty athletic outfit photo for fashion AI testing",
+    "image_info": {
+      "url": "https://cdnimg.dreampairs.com/dreampairshoes/image/article/20240711_1257/sarr034w-womens-sneakers-feature-34ff.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 182363,
+      "width": 964,
+      "height": 600,
+      "total_pixels": 578400,
+      "basic_score": 0.8827919777844485,
+      "file_name": "woman_athletic_wear_running_sports_outfit_sneakers.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a woman in a complete athletic wear outfit including a sports bra, leggings, and sneakers. The clarity is excellent with sharp details, and there are no watermarks. The overall composition and lighting are professional, making it highly suitable for fashion AI testing.",
+      "file_name": "woman_athletic_wear_running_sports_outfit_sneakers.jpg",
+      "caption": "A fit young woman with braided hair is captured in a dynamic side profile, running or jogging with hands slightly raised. She wears a dark teal sports bra, matching high-waisted teal athletic leggings with textured patterns, and black and pink running sneakers. The background is a minimalist concrete wall, highlighting her sporty attire.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A sporty athletic outfit photo for fashion AI testing",
+    "image_info": {
+      "url": "https://i.pinimg.com/474x/2d/c1/4c/2dc14c4d84cb92c642da8c94a8837908.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 32915,
+      "width": 345,
+      "height": 517,
+      "total_pixels": 178365,
+      "basic_score": 0.7439182452447005,
+      "file_name": "sporty_athletic_outfit_woman_sneakers_fashion_ai_test.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a complete sporty athletic outfit including sneakers, which perfectly matches the search query and prompt. The clarity is excellent, showcasing details of the clothing and accessories. There are no watermarks. The overall composition and professional quality are high, making it suitable for fashion AI testing.",
+      "file_name": "sporty_athletic_outfit_woman_sneakers_fashion_ai_test.jpg",
+      "caption": "A fashionable woman wearing a light grey cowl-neck long-sleeve athletic top, olive green leggings, and beige sneakers, sitting casually on a concrete curb with 'FIRE LAN' painted on it. She has her hair styled in a messy bun and is wearing dark sunglasses, looking to her right.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A sporty athletic outfit photo for fashion AI testing",
+    "image_info": {
+      "url": "https://i.pinimg.com/564x/5b/65/e8/5b65e8a52c091a9db4aef8ef5d046a90.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 75373,
+      "width": 564,
+      "height": 851,
+      "total_pixels": 479964,
+      "basic_score": 0.8433591425606085,
+      "file_name": "sporty_casual_outfit_woman_grey_sweatshirt_sneakers.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image features a woman in a sporty casual outfit, including sneakers and a sweatshirt, which aligns well with the 'sporty' and 'sneaker' aspects of the search query and prompt. While not strictly performance athletic wear, it serves as a good example of a fashionable sporty look for AI testing. The image is clear, well-composed, and free of watermarks, contributing to its high overall quality.",
+      "file_name": "sporty_casual_outfit_woman_grey_sweatshirt_sneakers.jpg",
+      "caption": "A full-body side profile photograph of a young woman standing outdoors on a sunny day. She is wearing a light grey oversized sweatshirt, form-fitting black skinny jeans, and clean white sneakers. Her long brown hair is styled in a high ponytail, and she is seen adjusting her hair while looking to the right. A small black cross-body bag is draped over her shoulder. The background features blurred green foliage and a brick building, suggesting an urban or park setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A sporty athletic outfit photo for fashion AI testing",
+    "image_info": {
+      "url": "https://hips.hearstapps.com/hmg-prod/images/hlh050119lifestyle-001-1557784628.jpg?crop=1xw:0.982875xh;center,top&resize=980:*",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 244627,
+      "width": 980,
+      "height": 1470,
+      "total_pixels": 1440600,
+      "basic_score": 0.8618913121415755,
+      "file_name": "sporty_fashion_man_jumping_tennis_court_outfit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 92.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to the 'sporty athletic outfit photo for fashion AI testing' prompt, showcasing a stylish man in a modern athletic-inspired outfit on a tennis court. The clarity is exceptional, with sharp details on the clothing and environment. There are no watermarks. The overall composition, dynamic pose, and professional quality make it an excellent choice for fashion AI testing.",
+      "file_name": "sporty_fashion_man_jumping_tennis_court_outfit.jpg",
+      "caption": "A stylish young man in a dynamic mid-air pose on a vibrant blue tennis court, wearing a modern sporty-casual outfit. He is dressed in a tan jacket, a red and blue striped sweater, dark blue trousers, and trendy sneakers, with one hand resting on the white tennis net. The court features clear white lines and a contrasting green background, all under bright, clear lighting.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
