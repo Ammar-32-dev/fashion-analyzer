@@ -81,10 +81,6 @@ Fashion Analyzer is a **100% client-side** web application that leverages artifi
 
 ---
 
-## 🌐 Live Demo
-
-**Try Fashion Analyzer now:** [https://0uyw6eodauuv.space.minimax.io](https://0uyw6eodauuv.space.minimax.io)
-
 <div align="center">
 
 ![Demo Screenshot](https://via.placeholder.com/800x400/ffffff/000000?text=Fashion+Analyzer+Demo+Screenshot)
